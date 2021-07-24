@@ -1,4 +1,4 @@
-# This project user Reactjs
+# This project use Reactjs
 
 ## Data fake .json
 
